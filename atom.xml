@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mj5219054/effective-waddle</id>
+    <title>叶子</title>
+    <updated>2022-04-17T05:28:41.739Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mj5219054/effective-waddle"/>
+    <link rel="self" href="https://mj5219054/effective-waddle/atom.xml"/>
+    <subtitle>叶子的博客</subtitle>
+    <logo>https://mj5219054/effective-waddle/images/avatar.png</logo>
+    <icon>https://mj5219054/effective-waddle/favicon.ico</icon>
+    <rights>All rights reserved 2022, 叶子</rights>
+</feed>
