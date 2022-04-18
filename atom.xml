@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/mj5219054/github.io</id>
+    <title>叶子</title>
+    <updated>2022-04-18T06:20:53.934Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/mj5219054/github.io"/>
+    <link rel="self" href="https://github.com/mj5219054/github.io/atom.xml"/>
+    <subtitle>    把记录大学生活的点点滴滴，分享学习上的经验知识改为记录日常生活的点点滴滴，分享工作和学习上的经验知识</subtitle>
+    <logo>https://github.com/mj5219054/github.io/images/avatar.png</logo>
+    <icon>https://github.com/mj5219054/github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 叶子</rights>
+</feed>
