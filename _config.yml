@@ -34,3 +34,30 @@ deploy:
     [repo_name]:
       url: <repository url>
       branch: [branch]
+      deploy:
+  repo:
+    # Either syntax is supported
+    github: https://github.com/user/project.git,branch
+    gitee:
+      url: https://gitee.com/user/project.git
+      branch: branch_name
+       # _config.yaml
+deploy:
+  - type: git
+    repo: git@github.com:mj5219054.github.io.git
+    branch: master
+  - type: git
+    repo: git@github.com:mj5219054.github.io.git
+    branch: src
+    extend_dirs: /
+    ignore_hidden: false
+    ignore_pattern:
+        public: .
+      
+      
+      
+      
+      category_dir: categories   # 确认站点配置文件打开
+      categories: /categories    #  主题配置文件
+      
+
