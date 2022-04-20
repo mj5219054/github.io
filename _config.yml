@@ -53,7 +53,20 @@ deploy:
     ignore_hidden: false
     ignore_pattern:
         public: .
-      
+      lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+
       
       
       
