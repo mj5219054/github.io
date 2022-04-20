@@ -4,6 +4,7 @@
 /**
  * Use a better box model (opinionated).
  */
+rougify style github > style.css
 html {
   box-sizing: border-box;
 }
